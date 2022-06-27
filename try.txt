@@ -1,0 +1,2 @@
+display: "hbhbb"
+num : int = 'hshgg'
