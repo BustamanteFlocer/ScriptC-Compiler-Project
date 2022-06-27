@@ -1,2 +1,2 @@
-display: "hbhbb"
-num : int = 'hshgg'
+display: "Hello World"
+variable : char = 'a'
